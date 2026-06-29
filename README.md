@@ -1,4 +1,16 @@
+# 💫 Hi 👋, I'm Kuntala Sreeja
+Aspiring Software Engineer | AI & Machine Learning Enthusiast | Python & Java Developer
 
+Email Me 👉 ✉️ kuntalasreeja767@gmail.com 
+
+- 🔭 **I’m currently working on:** Building software applications using Java and Python while exploring modern software development practices.
+- 🌱 **I’m currently learning:** Data Structures & Algorithms, Spring Boot, SQL, and Software Development.
+- 👯 **I’m looking to collaborate on:** Open Source, Java, Python, AI/ML, and Full-Stack Development projects.
+- 🤔 **I’m looking for help with:**Backend development, scalable application design, and open-source contributions.
+- 💬 **Ask me about:** Java, Python, SQL, Object-Oriented Programming (OOP), Machine Learning, NLP, and Software Development.
+- 📫 **How to reach me:** kuntalasreeja767@gmail.com
+- 😄 **Pronouns:** She/Her
+- ⚡ **Fun fact:** I enjoy learning new technologies and building software solutions that solve real-world problems.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sreeja.kuntala12) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kuntalasreeja767@gmail.com) 
 
